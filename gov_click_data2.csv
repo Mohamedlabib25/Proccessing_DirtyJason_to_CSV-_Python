@@ -1,0 +1,13 @@
+,web_browser,operating_sys,from_url,to_url,city,langitude,latitude,time_zone,time_in,time_out
+0,Mozilla,Windows,www.facebook.com,www.ncbi.nlm.nih.gov,Danvers,42.576698, -70.954903,America/New_York,Sun Apr  1 21:03:50 2012,Sun Apr  1 21:03:57 2012
+1,GoogleMaps,  ,www.AwareMap.com,www.monroecounty.gov,Provo,40.218102, -111.613297,America/Denver,Fri Mar 16 20:40:49 2012,Fri Jun 17 00:13:13 2011
+2,Mozilla,Windows,t.co,boxer.senate.gov,Washington,38.9007, -77.043098,America/New_York,Tue Apr  3 00:50:30 2012,Tue Apr  3 00:50:35 2012
+3,Mozilla,Macintosh;,  ,apod.nasa.gov,Braz,-23.549999, -46.616699,America/Sao_Paulo,Wed Apr  4 04:37:10 2012,Wed Apr  4 04:37:24 2012
+4,Mozilla,Windows,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,42.286499, -71.714699,America/New_York,Thu Apr  5 08:23:50 2012,Thu Apr  5 08:23:59 2012
+5,Mozilla,Windows,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,42.286499, -71.714699,America/New_York,Fri Apr  6 12:10:30 2012,Fri Apr  6 12:10:48 2012
+6,Mozilla,Windows,plus.url.google.com,www.nasa.gov,Luban,51.116699, 15.2833,Europe/Warsaw,Sat Apr  7 15:57:10 2012,Sat Apr  7 15:57:20 2012
+7,Mozilla,Windows,www.facebook.com,www.nasa.gov,  ,  ,  ,,Mon Apr  9 23:30:36 2012,Thu Sep 24 01:06:04 2392
+8,Opera,Ubuntu,www.facebook.com,www.nasa.gov,  ,  ,  ,,Sun Apr  8 19:43:50 2012,Sun Apr  8 19:44:02 2012
+9,Mozilla,Windows,t.co,apod.nasa.gov,  ,  ,  ,,Mon Apr  9 23:30:30 2012,Mon Apr  9 23:30:40 2012
+10,Mozilla,Windows,  ,www.nysdot.gov,Seattle,47.5951, -122.332603,America/Los_Angeles,Wed Apr 11 03:17:10 2012,Wed Apr 11 03:17:20 2012
+11,Mozilla,Macintosh;,t.co,oversight.house.gov,Washington,38.937599, -77.092796,America/New_York,Thu Apr 12 07:04:00 2012,Thu Apr 12 07:04:03 2012
